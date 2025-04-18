@@ -53,7 +53,7 @@ Build a Streamlit web interface
 Deploy to Hugging Face Spaces
 
 🧑‍💻 Author
-Your Name – @yourhandle
+Your Name – @JamesMungai254
 
 📄 License
 This project is licensed under the MIT License.
